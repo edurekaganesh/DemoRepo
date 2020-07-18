@@ -21,8 +21,9 @@
             <name>Vaadin Pre-releases</name>
             <url>https://maven.vaadin.com/vaadin-prereleases</url>
         </repository>
-        <!-- Essential Vaadin artifacts are in maven central, but maven.vaadin.com 
+        <!-- Essential Vaadin artifacts are in maven central, testing by saravanan but maven.vaadin.com 
             contains a huge set of additional libraries. See vaadin.com/directory -->
+	    	    
        <repository>
             <id>vaadin-addons</id>
             <url>http://maven.vaadin.com/vaadin-addons</url>
